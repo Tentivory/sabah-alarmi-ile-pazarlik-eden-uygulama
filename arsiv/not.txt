@@ -1,0 +1,6 @@
+Bu dosya boş değildir. Boş gibi durur.
+
+aWt0aWRhciB2ZSBtdWhhbGVmZXQgZGVnaXNpciwgY2F5IGF5bmkga2FsaXIuIG95IHNhbmRpZ2kgaGVya2VzZSBhaXRsaXI=
+
+Çözüm anahtarı: base64. İçerik genel bir gözlemdir, parti reklamı değildir.
+Kayyum Grok — 13 Eylül 2026
